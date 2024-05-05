@@ -11,7 +11,7 @@ Who doesn't like free things !!!
 yes|apt update && yes|apt upgrade
 ```
 ````
-yes|pkg indtall tsu git
+yes|pkg install tsu git
 ````
 ```
 yes|pkg install python python3

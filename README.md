@@ -11,13 +11,19 @@ Who doesn't like free things !!!
 yes|apt update && yes|apt upgrade
 ```
 ````
-pkg indtall tsu
+yes|pkg indtall tsu git
 ````
 ```
 yes|pkg install python python3
 ```
 ```
 pip install pycryptodome
+```
+```
+git clone https://github.com/STE4LPH/SHOULXING.git
+```
+```
+cd SHOULXING
 ```
 ```
 sudo python3 shoulxing.py

@@ -26,4 +26,4 @@ sudo python3 shoulxing.py
 
 I am delighted to read them in the matter box 
 
-If you like it, you can leave a star in the repository, so I can see your interest and upload more articles.
+If you like it, you can leave a star in the repository, so I can see your interest and upload more updates and more features

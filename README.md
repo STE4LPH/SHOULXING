@@ -7,6 +7,7 @@ Who doesn't like free things !!!
 
 This script is designed to change game data, it was inspired from the creation of SKDE Editor
 
+your discord community -> https://discord.gg/mwHgFXp
 
 
 

@@ -5,6 +5,9 @@ It is in development, more functions will be implemented,
 
 Who doesn't like free things !!!
 
+This script was designed to change game data inspired by SKDE editor creator.
+
+You need to have root permissions to use this tool 
 
 # INSTALL
 ```
@@ -17,7 +20,6 @@ yes|pkg install tsu git
 yes|pkg install python python3
 ```
 ```
-pip install pycryptodome
 ```
 ```
 git clone https://github.com/STE4LPH/SHOULXING.git

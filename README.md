@@ -15,10 +15,9 @@ yes|apt update && yes|apt upgrade
 ```
 ````
 yes|pkg install tsu git
-````
+```
 ```
 yes|pkg install python python3
-```
 ```
 ```
 ```

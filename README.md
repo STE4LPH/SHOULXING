@@ -5,7 +5,10 @@ It is in development, more functions will be implemented,
 
 Who doesn't like free things !!!
 
-This script was designed to change game data inspired by SKDE editor creator.
+This script is designed to change game data, it was inspired from the creation of SKDE Editor
+
+
+
 
 You need to have root permissions to use this tool 
 

@@ -5,7 +5,7 @@ It is in development, more functions will be implemented,
 
 Who doesn't like free things !!!
 
-This script is designed to change game data, it was inspired from the creation of SKDE Editor
+This script is designed to change game data, it was inspired from the creation of SKDE
 
 discord community -> https://discord.gg/mwHgFXp
 

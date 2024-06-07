@@ -24,6 +24,9 @@ yes|pkg install tsu git
 yes|pkg install python python3
 ```
 ```
+pip install pycryptodome
+```
+```
 git clone https://github.com/STE4LPH/SHOULXING.git
 ```
 ```

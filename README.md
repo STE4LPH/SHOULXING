@@ -30,7 +30,7 @@ git clone https://github.com/STE4LPH/SHOULXING.git
 cd SHOULXING
 ```
 ```
-sudo python3 shoulxing.py
+sudo python shoulxing.py
 ```
 
 

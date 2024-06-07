@@ -31,6 +31,8 @@ cd SHOULXING
 ```
 ```
 sudo python shoulxing.py
+or
+su -c "/data/data/com.termux/files/usr/bin/python /data/data/com.termux/files/home/SHOULXING/shoulxing.py"
 ```
 
 

@@ -18,7 +18,7 @@ You need to have root permissions to use this tool
 yes|apt update && yes|apt upgrade
 ```
 ```
-yes|pkg install tsu git
+yes|pkg install sudo git
 ```
 ```
 yes|pkg install python python3
